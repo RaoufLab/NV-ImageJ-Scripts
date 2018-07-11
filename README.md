@@ -3,20 +3,20 @@ This project accompanies the paper entitled "Reconstruction of peripheral pain p
 
 Getting Started
 
-  Collection of ImajeJ scripts for analysis of ICC images and quantification of Calcium imaging data. 
+     Collection of ImajeJ scripts for analysis of ICC images and quantification of Calcium imaging data. 
 
 Prerequisites
 
-  ImajeJ and FIJI versions?
+     ImajeJ and FIJI versions?
 
 Installing
 
-  Download the scripts and place in the macro directory... 
+     Download the scripts and place in the macro directory... 
 
 Authors
 
-  Nickolai Vysokov
+      Nickolai Vysokov
 
 License
 
-  This project is licensed under the MIT License - see the LICENSE.md file for details
+      This project is licensed under the MIT License - see the LICENSE.md file for details
